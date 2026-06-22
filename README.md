@@ -1,2 +1,30 @@
-# Contact-Management-System
-A Contact Management System developed using Python and a GUI to efficiently store, organize, and manage contact information. It enables users to add, view, update, and delete contact details such as names, phone numbers, and email addresses, providing a user-friendly and accurate solution for contact management.
+# Contact Management System
+
+ ## Description
+
+A Contact Management System developed using Python and a GUI to efficiently store, organize, and manage contact information.
+
+## Features
+
+* Add new contacts
+* View saved contacts
+* Update contact details
+* Delete contacts
+* User-friendly graphical interface
+
+## Technologies Used
+
+* Python
+* Tkinter (GUI)
+* Functions
+* Lists
+* File Handling
+
+## Project Files
+
+* Contact Management System.py
+* Project Presentation (PPT)
+
+## Author
+
+Emima Jenefar S
